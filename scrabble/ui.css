@@ -1,0 +1,156 @@
+#window_init
+{
+	background-color: white;
+}
+
+#grid_opciones_tabla
+{
+	background-color: white;
+}
+
+/*
+	Letras del atril
+*/
+
+#letras_del_atril
+{
+	font-family: "Droid Sans Mono";
+	font-size: 13px;
+	color: #4C4E56;
+	padding: 5px 3px 5px 3px;
+	background-color: #FFDA7E;
+
+    	border-style: solid;
+    	border-width: 1.5px;	
+	border-color: #4C4E56;
+}
+
+#letras_del_atril_vacia
+{
+	font-family: "Droid Sans Mono";
+	font-size: 13px;
+	color: #DAD9D6;
+	padding: 5px 3px 5px 3px;
+	background-color: #DAD9D6;
+
+    	border-style: solid;
+    	border-width: 1.5px;	
+	border-color: #4C4E56;
+}
+
+#cf_letras_del_atril_seleccionada
+{
+	font-family: "Droid Sans Mono";
+	font-size: 13px;
+	color: #4C4E56;
+	padding: 5px 3px 5px 3px;
+	background-color: white;
+
+    	border-style: solid;
+    	border-width: 1.5px;	
+	border-color: #4C4E56;
+}
+
+/*
+ Casillas del tablero del juego
+*/
+
+#casilla_del_centro
+{
+	font-family: "Droid Sans Mono";
+	font-size: 10px;
+	color: #4C4E56;
+	padding: 5px 3px 5px 3px;
+	background-color: #FF8B9A;
+
+    	border-style: solid;
+    	border-width: 1.5px;	
+	border-color: #4C4E56;
+}
+
+#casilla_normal
+{
+	font-family: "Droid Sans Mono";
+	font-size: 10px;
+	color: #4C4E56;
+	padding: 5px 3px 5px 3px;
+	background-color: #61C680;
+
+	border-style: solid;
+    	border-width: 1.5px;	
+	border-color: #4C4E56;
+}
+
+#casilla_indice
+{
+	font-family: Arial;
+	font-size: 7px;
+	color: #4C4E56;
+	padding: 2px 5px 2px 5px;
+	background-color: white;
+}
+
+#casilla_ocupada
+{
+	font-family: "Droid Sans Mono";
+	font-size: 12px;
+	color: #4C4E56;
+	padding: 5px 3px 5px 3px;
+	background-color: #FFDA7E;
+
+    	border-style: solid;
+    	border-width: 1.5px;	
+	border-color: #4C4E56;
+}
+
+#casilla_triple_palabra
+{
+	font-family: "Droid Sans Mono";
+	font-size: 6px;
+	color: #4C4E56;
+	padding: 5px 3px 5px 3px;
+	background-color: #F65058;
+
+    	border-style: solid;
+    	border-width: 1.5px;	
+	border-color: #4C4E56;
+}
+
+#casilla_doble_palabra
+{
+	font-family: "Droid Sans Mono";
+	font-size: 6px;
+	color: #4C4E56;
+	padding: 5px 3px 5px 3px;
+	background-color: #FF8B9A;
+
+    	border-style: solid;
+    	border-width: 1.5px;	
+	border-color: #4C4E56;
+}
+
+#casilla_triple_letra
+{
+	font-family: "Droid Sans Mono";
+	font-size: 6px;
+	color: #4C4E56;
+	padding: 5px 3px 5px 3px;
+	background-color: #4097DB;
+
+    	border-style: solid;
+    	border-width: 1.5px;	
+	border-color: #4C4E56;
+}
+
+#casilla_doble_letra
+{
+	font-family: "Droid Sans Mono";
+	font-size: 6px;
+	color: #4C4E56;
+	padding: 5px 3px 5px 3px;
+	background-color: #8AB3E8;
+
+    	border-style: solid;
+    	border-width: 1.5px;	
+	border-color: #4C4E56;
+}
