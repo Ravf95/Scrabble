@@ -180,7 +180,7 @@ void desplazar_piezas(int *status, char atril[], int posplayed[][4], int *cjugad
 			aux = verificar_posicion_fichas_tablero(posplayed, *cjugadas);
 			*status = j_tabla_piezas_contiguas;
 
-			// ¿las fichas no están colocada de manera vertical/horizontal?
+			// ¿las fichas no están colocadas de manera vertical/horizontal?
 			if (aux == 2)
 			{
 				*status = j_tabla_devolver_piezas_atril;
