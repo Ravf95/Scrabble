@@ -195,8 +195,6 @@ int obtener_valor_palabra(int h_v, int cjugadas, int ax, int ay, int start, char
 	int x;
 	int tx, ty;
 
-	int vector_indices_posplayed[7] = { -1, -1, -1, -1, -1 };
-
 	for (i = 0, j = start; word[i] != '\0'; i++, j++)
 	{
 		valor_letra = obtener_valor_letra(word[i]);
