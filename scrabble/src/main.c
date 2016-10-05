@@ -42,7 +42,7 @@ int main(void)
 
 	if (g_user_home_dir == NULL)
 	{
-		printf("ERROR: main.c > main : No se puedo obtener el directorio home del usuario\n");
+		printf("ERROR: main.c > main : No se puede obtener el directorio home del usuario\n");
 		exit(-1);
 	}
 
